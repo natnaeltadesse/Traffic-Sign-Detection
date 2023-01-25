@@ -10,9 +10,9 @@ https://tensorboard.dev/experiment/EtbeUm3AQmiq4whlSlgm2g/#scalars
 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 <h4>Project Contributors: <h4>
-Natnael Mengistu
-Natnael Belayneh
-Natnael Temesgen
+Natnael Mengistu <br>
+Natnael Belayneh <br>
+Natnael Temesgen <br>
 Natnael Tadesse
 </html>
 
